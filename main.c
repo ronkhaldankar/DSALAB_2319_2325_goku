@@ -2,7 +2,7 @@
 #include "stack.h"
 int main()
 {
-	printf("\nhello");
+	printf("\nhello.");
 	int n;
 	Stack mystack;
 	init(&mystack);
